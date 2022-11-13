@@ -1,4 +1,6 @@
 let age: number = 23
-let myName: String = "subhadip"
+let myName: string = "subhadip"
+let myBool: boolean = true
 
-console.log(age,myName)
+console.log(age,myName,myBool)
+console.log(myBool)
